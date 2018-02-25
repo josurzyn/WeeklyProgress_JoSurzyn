@@ -8,6 +8,6 @@
 - [ ] Commplete Writing READMEs Lesson
 
 ## History
-
+### w/c 19th February
 - [x] Animal Trading Cards Project
 - [x] Work through responsive Lessons
