@@ -9,5 +9,5 @@
 
 ## History
 
-- [ ] Animal Trading Cards Project
-- [ ] Work through responsive Lessons
+- [x] Animal Trading Cards Project
+- [x] Work through responsive Lessons
