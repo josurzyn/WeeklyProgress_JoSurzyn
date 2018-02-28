@@ -5,7 +5,8 @@
 - [x] Finish Common Responsive Patterns
 - [ ] Complete Optimisations Lesson
 - [x] Complete Making Sites Responsive: Resume Site on Mobile Lesson
-- [x] Commplete Writing READMEs Lesson
+- [x] Complete Writing READMEs Lesson
+- [ ] Start Portfolio Project
 
 ## History
 ### w/c 19th February
