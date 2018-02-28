@@ -4,7 +4,7 @@
 
 - [x] Finish Common Responsive Patterns
 - [ ] Complete Optimisations Lesson
-- [ ] Complete Making Sites Responsive: Resume Site on Mobile Lesson
+- [x] Complete Making Sites Responsive: Resume Site on Mobile Lesson
 - [ ] Commplete Writing READMEs Lesson
 
 ## History
