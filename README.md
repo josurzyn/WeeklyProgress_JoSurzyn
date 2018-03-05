@@ -1,5 +1,6 @@
 # WeeklyProgress_JoSurzyn
 
+## TODO
 ### w/c 5th March
 - [ ] Complete Optimisations Lesson - Final Brighton Times Quiz
 - [ ] Complete Portfolio Project
