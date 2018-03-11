@@ -2,7 +2,7 @@
 
 ## TODO
 - [ ] Finish outstanding items from w/c 5th March
-- [ ] Subit Portfolio Project
+- [ ] Submit Portfolio Project
 - [ ] Refresh completed Javascript Lessons
 
 ## History
