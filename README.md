@@ -2,13 +2,13 @@
 
 ## TODO
 - [ ] Finish outstanding items from w/c 5th March
-- [ ] Submit Portfolio Project
+- [x] Submit Portfolio Project
 - [ ] Refresh completed Javascript Lessons
 
 ## History
 ### w/c 5th March
 - [ ] Complete Final Brighton Times Quiz
-- [ ] Complete Portfolio Project
+- [x] Complete Portfolio Project
 
 ### w/c 26th February
 - [x] Finish Common Responsive Patterns
