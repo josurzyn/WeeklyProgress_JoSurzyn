@@ -1,13 +1,13 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
-- [ ] Finish outstanding items from w/c 5th March
+- [x] Finish outstanding items from w/c 5th March
 - [x] Submit Portfolio Project
-- [ ] Refresh completed Javascript Lessons
+- [x] Refresh completed Javascript Lessons
 
 ## History
 ### w/c 5th March
-- [ ] Complete Final Brighton Times Quiz
+- [x] Complete Final Brighton Times Quiz
 - [x] Complete Portfolio Project
 
 ### w/c 26th February
