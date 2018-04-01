@@ -1,11 +1,21 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
+### w/c 26th March
+- [x] Complete Github Lessons
+- [ ] Remaining JavaScript Lessons
+
+## History
+
+### w/c 19th March
+- [x] Shell Workshop
+- [x] Learn Git
+
+### w/c 12th March
 - [x] Finish outstanding items from w/c 5th March
 - [x] Submit Portfolio Project
 - [x] Refresh completed Javascript Lessons
 
-## History
 ### w/c 5th March
 - [x] Complete Final Brighton Times Quiz
 - [x] Complete Portfolio Project
