@@ -1,11 +1,13 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
-### w/c 26th March
-- [x] Complete Github Lessons
-- [ ] Remaining JavaScript Lessons
+### w/c 1st April
+- [ ] Memory Game Project
 
 ## History
+### w/c 26th March
+- [x] Complete Github Lessons
+- [x] Remaining JavaScript Lessons
 
 ### w/c 19th March
 - [x] Shell Workshop
