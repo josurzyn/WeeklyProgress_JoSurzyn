@@ -1,10 +1,13 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
-### w/c 1st April
-- [ ] Memory Game Project
+### w/c 9th April
+- [ ] Continue with Memory Game Project
 
 ## History
+### w/c 2nd April
+- [ ] Memory Game Project
+
 ### w/c 26th March
 - [x] Complete Github Lessons
 - [x] Remaining JavaScript Lessons
