@@ -1,12 +1,18 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
-### w/c 9th April
-- [ ] Continue with Memory Game Project
+### w/c 23rd April
+- [ ] Complete at least 7 lessons of Exploring JS
 
 ## History
+### w/c 16th April
+- [x] Submit Memory Game Project
+
+### w/c 9th April - Moving House
+- [x] Continue with Memory Game Project
+
 ### w/c 2nd April
-- [ ] Memory Game Project
+- [x] Memory Game Project
 
 ### w/c 26th March
 - [x] Complete Github Lessons
