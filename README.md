@@ -1,10 +1,14 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
-### w/c 23rd April
-- [ ] Complete at least 7 lessons of Exploring JS
+### w/c 30th April
+- [ ] Complete lessons 8 - 12 of Exploring JS
+- [ ] Classic Arcade Game Clone Project
 
 ## History
+### w/c 23rd April
+- [x] Complete at least 7 lessons of Exploring JS
+
 ### w/c 16th April
 - [x] Submit Memory Game Project
 
