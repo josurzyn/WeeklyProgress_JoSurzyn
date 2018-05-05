@@ -2,8 +2,8 @@
 
 ## TODO
 ### w/c 30th April
-- [ ] Complete lessons 8 - 12 of Exploring JS
-- [ ] Classic Arcade Game Clone Project
+- [x] Complete lessons 8 - 12 of Exploring JS
+- [x] Classic Arcade Game Clone Project - Submitted
 
 ## History
 ### w/c 23rd April
