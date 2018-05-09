@@ -1,11 +1,15 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
+### w/c 7th May
+- [ ] Complete lessons 14 - 22 of Exploring JS
+- [ ] Start Feed Reader Testing Project
+
+## History
 ### w/c 30th April
 - [x] Complete lessons 8 - 12 of Exploring JS
 - [x] Classic Arcade Game Clone Project - Submitted
 
-## History
 ### w/c 23rd April
 - [x] Complete at least 7 lessons of Exploring JS
 
