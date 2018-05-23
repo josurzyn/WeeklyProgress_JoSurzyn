@@ -1,11 +1,21 @@
 # WeeklyProgress_JoSurzyn
 
 ## TODO
-### w/c 7th May
-- [ ] Complete lessons 14 - 22 of Exploring JS
-- [ ] Start Feed Reader Testing Project
+### w/c 21st May
+#### Outstanding
+- [ ] Complete Feed Reader Testing Project
+#### New
+- [ ] Complete lessons 1 - 2 of Front End Applications
 
 ## History
+### w/c 14th May
+- [ ] Complete Feed Reader Testing Project
+- [x] On holiday in Romania
+
+### w/c 7th May
+- [x] Complete lessons 14 - 22 of Exploring JS
+- [x] Start Feed Reader Testing Project
+
 ### w/c 30th April
 - [x] Complete lessons 8 - 12 of Exploring JS
 - [x] Classic Arcade Game Clone Project - Submitted
